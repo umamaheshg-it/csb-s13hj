@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://umamaheshg-it.github.io/csb-s13hj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://umamaheshg-it.github.io/csb-s13hj/static/js/main.990bedee.chunk.js",
+    "main.js.map": "https://umamaheshg-it.github.io/csb-s13hj/static/js/main.990bedee.chunk.js.map",
+    "runtime-main.js": "https://umamaheshg-it.github.io/csb-s13hj/static/js/runtime-main.5c1d78bd.js",
+    "runtime-main.js.map": "https://umamaheshg-it.github.io/csb-s13hj/static/js/runtime-main.5c1d78bd.js.map",
+    "static/js/2.2350909c.chunk.js": "https://umamaheshg-it.github.io/csb-s13hj/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://umamaheshg-it.github.io/csb-s13hj/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://umamaheshg-it.github.io/csb-s13hj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://umamaheshg-it.github.io/csb-s13hj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://umamaheshg-it.github.io/csb-s13hj/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c1d78bd.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.990bedee.chunk.js"
+  ]
+}
